@@ -32,6 +32,8 @@ public class Bunyi2 {
             clip.start();
            
         }
+        
+        //afiqah najla busuk gila
             
         
         
